@@ -13,7 +13,8 @@ import Player from './features/player/player';
 
 let  player = Player;
 
-//This gets the tile numbers from data/index.js and displays each one as a className such as default, or hair//
+/*This gets the tile numbers from data/index.js and displays each one as a
+className such as default, or hair. default is transparent.*/
 
 function getTile(type) {
   switch(type){
