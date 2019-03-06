@@ -1,3 +1,5 @@
+//Each number represents a pixel and in this case the pixel is 16X16 as an image//
+
 export const tiles = [
    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
