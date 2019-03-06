@@ -1,0 +1,42 @@
+
+.tile {
+  height: 1px;
+  width: 1px;
+  display: inline-flex;
+}
+
+.hair {
+  background-color: yellow;
+}
+
+.skin {
+  background-color: rgba(125, 255, 255, 1);
+}
+
+.skinShade {
+  background-color: rgba(60, 125, 125, 1);
+}
+
+.clothes {
+  background-color: green;
+}
+
+.clotheShade {
+  background-color: darkgreen;
+}
+
+.boots {
+  background-color: brown;
+}
+
+.bootsShade {
+  background-color: rgba(125,12,12, 1);
+}
+
+.bootsLight {
+  background-color: rgba(205,82,82, 1);
+}
+
+.black {
+  background-color: black;
+}
